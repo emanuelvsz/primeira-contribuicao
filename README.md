@@ -1,4 +1,4 @@
-# Primeira Contribuição IFAL Arapiraca
+## Primeira Contribuição IFAL Arapiraca
 
 Repositório destinado a devs do IFAL campus Arapiraca que querem experimentar a primeira contribuição com projetos de software de código aberto.
 
